@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 Currently pursuing my Cyber Security degree <br/>
-I play CTF's for mostly focusing on OSINT <br/>
-I’m currently learning Reverse Engineering <br>
+I play CTF's for mostly focusing on Forensics <br/>
+I’m currently learning Web App Exploitation <br>
 
 
 
